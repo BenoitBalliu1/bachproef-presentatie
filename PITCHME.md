@@ -136,7 +136,7 @@ Na het examen
 #VSLIDE
 
 ```
-git stage --all
+git add --all
 git commit
 git push
 ```
