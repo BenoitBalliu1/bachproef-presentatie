@@ -1,6 +1,6 @@
-# Flux
+# Analyse, architectuur en proof-of-concept van een beveiligde omgeving voor het afnemen van computerexamens op eigen laptop
 
-An application architecture for React
+Benoit Balliu 13/06/2019
 
 #HSLIDE
 
