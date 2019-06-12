@@ -59,15 +59,16 @@
 - Safe Exam Browser.
 - Televic AssessmentQ / AVIDAnet Lite
 
+
+#VSLIDE
+### Safe Exam Browser.
+###  Televic AssessmentQ / AVIDAnet Lite
+
 #VSLIDE
 ### Desktop virtualisatie via een cloudprovider.
 
 #VSLIDE
 ### Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan.
-
-#VSLIDE
-### Safe Exam Browser.
-###  Televic AssessmentQ / AVIDAnet Lite
 
 
 #HSLIDE
