@@ -44,6 +44,13 @@
 
 ## Mogelijke implementaties van BYOD-examens op Hogeschool Gent
 
+#SLIDE
+
+## BYOD?
+- "bring your own device"
+- Omschrijving
+- Voordelen tegenover het gebruikelijke systeem 
+
 #HSLIDE
 
 ## Gekozen implementatie
