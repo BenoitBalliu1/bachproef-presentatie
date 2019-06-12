@@ -187,3 +187,7 @@ Installatie van software
 - Meer opties
 - Veiliger
 - Makkelijker te beheren
+
+#HSLIDE
+
+## Zijn er nog vragen?
