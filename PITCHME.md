@@ -130,6 +130,16 @@ Begin van het examen
 
 ![GekozenOpstelling](assets/images/Check01.png)
 
+#VSLIDE
+Na het examen
+
+#VSLIDE
+'''
+git stage -all
+git commit
+git push
+'''
+
 #HSLIDE
 
 ## Conclusie
