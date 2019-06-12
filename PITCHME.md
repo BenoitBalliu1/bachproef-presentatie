@@ -48,8 +48,17 @@
 
 ## BYOD?
 - "bring your own device"
-- Omschrijving
-- Voordelen tegenover het gebruikelijke systeem
+  - Omschrijving
+  - Voordelen tegenover het gebruikelijke systeem
+
+#VSLIDE
+
+4 mogelijke implementaties
+- Desktop virtualisatie via een cloudprovider.
+- Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan.
+- Safe Exam Browser.
+- Televic AssessmentQ / AVIDAnet Lite
+
 
 #HSLIDE
 
