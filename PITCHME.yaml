@@ -2,8 +2,8 @@
 layout : center
 
 # Look-and-Feel
-logo : assets/images/logo.png
-theme : night
+logo : assets/images/HOGENT_Logo_Pos_rgb.png
+theme : simple
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
