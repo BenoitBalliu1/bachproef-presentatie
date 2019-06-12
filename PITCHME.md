@@ -141,9 +141,17 @@ git commit -m "Commit message"
 git push
 ```
 
+#VSLIDE
+- Nadelen
+
+
 #HSLIDE
 
 ## Conclusie
+
+#VSLIDE
+
+Niet de optimale oplossing
 
 #HSLIDE
 
