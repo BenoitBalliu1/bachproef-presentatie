@@ -61,7 +61,7 @@
 
 
 #VSLIDE
-### Safe Exam Browser.
+### Safe Exam Browser
 ###  Televic AssessmentQ / AVIDAnet Lite
 
 #VSLIDE
@@ -80,6 +80,16 @@
 
 
 ![GekozenOpstelling](assets/images/OpstellingNWOMG.png)
+
+#VSLIDE
+
+Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan
+
+- Functionaliteiten
+
+#VSLIDE
+- Voordelen
+- Nadelen
 
 #HSLIDE
 
