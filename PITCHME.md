@@ -54,9 +54,9 @@
 #VSLIDE
 
 4 mogelijke implementaties
-- Desktop virtualisatie via een cloudprovider.
-- Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan.
-- Safe Exam Browser.
+- Desktop virtualisatie via een cloudprovider
+- Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan
+- Safe Exam Browser
 - Televic AssessmentQ / AVIDAnet Lite
 
 
@@ -65,15 +65,19 @@
 ###  Televic AssessmentQ / AVIDAnet Lite
 
 #VSLIDE
-### Desktop virtualisatie via een cloudprovider.
+### Desktop virtualisatie via een cloudprovider
 
 #VSLIDE
-### Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan.
+### Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan
 
 
 #HSLIDE
 
 ## Gekozen implementatie
+
+#VSLIDE
+
+![GekozenOpstelling](assets/images/OpstellingNWOMG)
 
 #HSLIDE
 
