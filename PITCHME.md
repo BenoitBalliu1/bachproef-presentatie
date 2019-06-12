@@ -64,6 +64,7 @@ Vereisten
   - Geen.
 
 #VSLIDE
+Vereisten (cont.)
 
 - Could haves
   - Beperken van toegang tot software.
