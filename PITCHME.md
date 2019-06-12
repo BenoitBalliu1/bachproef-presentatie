@@ -36,6 +36,10 @@
   - Voordelen
   - Nadelen
 
+#VSLIDE
+
+## Probleemstelling
+
 #HSLIDE
 
 ## Mogelijke implementaties van BYOD-examens op Hogeschool Gent
