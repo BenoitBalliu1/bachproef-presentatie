@@ -1,7 +1,11 @@
-#HSLIDE
-### Analyse, architectuur en proof-of-concept van een beveiligde omgeving voor het afnemen van computerexamens op eigen laptop
+# Bachelorproefpresentatie
+Benoit Balliu
+(co)promotor: Bert Van Vreckem
+13/06/2019
 
-Benoit Balliu 13/06/2019
+#HSLIDE
+#### Analyse, architectuur en proof-of-concept van een beveiligde omgeving voor het afnemen van computerexamens op eigen laptop
+
 
 #HSLIDE
 
