@@ -3,7 +3,7 @@ layout : center
 
 # Look-and-Feel
 logo : assets/images/HOGENT_Logo_Pos_rgb.png
-theme : simple
+theme : white
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
