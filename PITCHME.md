@@ -27,7 +27,14 @@
 
 #VSLIDE
 
-test
+- Desktop-computers van Hogeschool Gent
+- NetSupport School
+
+#VSLIDE
+
+- Functionaliteiten
+  - Voordelen
+  - Nadelen
 
 #HSLIDE
 
