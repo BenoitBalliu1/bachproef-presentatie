@@ -2,7 +2,7 @@
 ## Bachelorproefpresentatie
 
 - Auteur: Benoit Balliu
-- (co)Promotor: Bert Van Vreckem
+- Promotor: Bert Van Vreckem
 
 13/06/2019
 
