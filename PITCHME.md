@@ -1,4 +1,5 @@
-# Analyse, architectuur en proof-of-concept van een beveiligde omgeving voor het afnemen van computerexamens op eigen laptop
+#HSLIDE
+### Analyse, architectuur en proof-of-concept van een beveiligde omgeving voor het afnemen van computerexamens op eigen laptop
 
 Benoit Balliu 13/06/2019
 
