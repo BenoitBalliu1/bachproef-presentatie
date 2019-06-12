@@ -166,7 +166,7 @@ git push
 
 ## Nadelen
 - Ingewikkeld
-- Niet volgens de vereisten
+- Voldoet niet aan alle vereisten
 
 #HSLIDE
 
