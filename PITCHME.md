@@ -94,6 +94,10 @@ Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegesta
 
 ## Proof-of-concept
 
+#VSLIDE
+
+![poc](assets/images/gns3FinalPoC.jpg)
+
 #HSLIDE
 
 ## Conclusie
