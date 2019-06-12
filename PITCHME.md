@@ -98,6 +98,18 @@ Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegesta
 
 ![poc](assets/images/gns3FinalPoC.jpg)
 
+#VSLIDE
+## Voorbereidend werk
+
+#VSLIDE
+
+![GekozenOpstelling](assets/images/Git01.png)
+
+#VSLIDE
+![GekozenOpstelling](assets/images/CSV1.png)
+
+#VSLIDE
+![GekozenOpstelling](assets/images/CSV2.png)
 #HSLIDE
 
 ## Conclusie
