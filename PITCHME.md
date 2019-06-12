@@ -62,6 +62,9 @@ Vereisten
 
 - Should haves
   - Geen.
+
+#VSLIDE
+
 - Could haves
   - Beperken van toegang tot software.
   - Monitoring tijdens het examen.
