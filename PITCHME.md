@@ -134,11 +134,12 @@ Begin van het examen
 Na het examen
 
 #VSLIDE
-'''
-git stage -all
+
+```
+git stage --all
 git commit
 git push
-'''
+```
 
 #HSLIDE
 
