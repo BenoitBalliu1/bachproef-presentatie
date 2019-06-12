@@ -174,7 +174,8 @@ git push
 
 #VSLIDE
 
-Niet de optimale oplossing
+- Niet de optimale oplossing
+- BYOD Principe is interessant gebleken
 
 #HSLIDE
 
