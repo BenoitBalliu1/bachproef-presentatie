@@ -137,7 +137,7 @@ Na het examen
 
 ```
 git add --all
-git commit
+git commit -m "Commit message"
 git push
 ```
 
