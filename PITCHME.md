@@ -14,7 +14,7 @@
 
 ### Inhoud
 
-- Huidige systeem om computerexamens af te nemen
+- Huidig systeem om computerexamens af te nemen
 - Mogelijke implementaties van BYOD-examens op Hogeschool Gent
 - Gekozen implementatie
 - Proof-of-concept
@@ -23,10 +23,28 @@
 
 #HSLIDE
 
-## Huidige systeem om computerexamens af te nemen
+## Huidig systeem om computerexamens af te nemen
 
 #VSLIDE
 
 test
 
-#HSLIDE 
+#HSLIDE
+
+## Mogelijke implementaties van BYOD-examens op Hogeschool Gent
+
+#HSLIDE
+
+## Gekozen implementatie
+
+#HSLIDE
+
+## Proof-of-concept
+
+#HSLIDE
+
+## Conclusie
+
+#HSLIDE
+
+## Toekomstig onderzoek
