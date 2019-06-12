@@ -110,6 +110,26 @@ Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegesta
 
 #VSLIDE
 ![GekozenOpstelling](assets/images/CSV2.png)
+
+#VSLIDE
+## Controle
+
+#VSLIDE
+![GekozenOpstelling](assets/images/Linkblock1.png)
+
+#VSLIDE
+![GekozenOpstelling](assets/images/Linkblock2.png)
+
+#VSLIDE
+Begin van het examen
+
+#VSLIDE
+![GekozenOpstelling](assets/images/Fork1.png)
+
+#VSLIDE
+
+![GekozenOpstelling](assets/images/Check01.png)
+
 #HSLIDE
 
 ## Conclusie
