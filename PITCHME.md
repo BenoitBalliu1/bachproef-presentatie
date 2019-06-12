@@ -52,6 +52,24 @@
   - Voordelen tegenover het gebruikelijke systeem
 
 #VSLIDE
+Vereisten
+
+- Must haves
+  - Toegang tot het internet kan verboden worden.
+  - Digitale communicatie met medestudenten is niet mogelijk.
+  - Snel en makkelijk opzetten van examens.
+  - Beperken van toegang tot documenten.
+
+- Should haves
+  - Geen.
+- Could haves
+  - Beperken van toegang tot software.
+  - Monitoring tijdens het examen.
+- won’t haves
+  - Geen.
+
+
+#VSLIDE
 
 4 mogelijke implementaties
 - Desktop virtualisatie via een cloudprovider
@@ -144,7 +162,8 @@ git push
 #VSLIDE
 
 ## Nadelen
-
+- Ingewikkeld
+- Niet volgens de vereisten
 
 #HSLIDE
 
@@ -157,3 +176,10 @@ Niet de optimale oplossing
 #HSLIDE
 
 ## Toekomstig onderzoek
+
+#VSLIDE
+
+Installatie van software
+- Meer opties
+- Veiliger
+- Makkelijker te beheren
