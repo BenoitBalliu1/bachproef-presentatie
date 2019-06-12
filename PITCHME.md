@@ -77,7 +77,7 @@
 
 #VSLIDE
 
-Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan
+
 
 ![GekozenOpstelling](assets/images/OpstellingNWOMG.png)
 
