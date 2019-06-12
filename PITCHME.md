@@ -12,11 +12,14 @@
 
 #HSLIDE
 
-### Flux Design
+### Inhoud
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Huidige systeem om computerexamens af te nemen
+- Mogelijke implementaties van BYOD-examens op Hogeschool Gent
+- Gekozen implementatie
+- Proof-of-concept
+- Conclusie
+- Toekomstig onderzoek
 
 #HSLIDE
 
