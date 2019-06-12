@@ -81,15 +81,14 @@
 
 ![GekozenOpstelling](assets/images/OpstellingNWOMG.png)
 
-#VSLIDE
 
+#VSLIDE
 Beveiligde, configureerbare netwerkomgeving om internettoegang tot niet-toegestane sites vanop laptops tegen te gaan
 
-- Functionaliteiten
 
-#VSLIDE
-- Voordelen
-- Nadelen
+- Functionaliteiten
+  - Voordelen
+  - Nadelen
 
 #HSLIDE
 
