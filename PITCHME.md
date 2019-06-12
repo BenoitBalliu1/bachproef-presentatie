@@ -1,6 +1,8 @@
-# Bachelorproefpresentatie
-Benoit Balliu
-(co)promotor: Bert Van Vreckem
+#HSLIDE
+## Bachelorproefpresentatie
+
+- auteur: Benoit Balliu
+- (co)promotor: Bert Van Vreckem
 13/06/2019
 
 #HSLIDE
